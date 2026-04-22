@@ -15,7 +15,7 @@
 - 💬 **Chat Widget** — Floating live chat assistant on each venue page
 
 ### For Admins
-- 🔐 **Admin Login** — Protected admin portal
+- 🔐 **Admin Login** — Protected admin portal (pass: admin123)
 - 📊 **Dashboard** — Overview stats (total, pending, confirmed, cancelled bookings)
 - 🗂️ **Booking Management** — Filter by status or venue, search by name/email/reference
 - ✏️ **Booking Detail Modal** — View full booking info, add internal notes, confirm or cancel
